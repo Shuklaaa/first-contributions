@@ -16,6 +16,7 @@
 Jyothishwari GP
 - [Ricktho Sarkar](https://github.com/Ricktho1)
 - [Parikshit Adhikari](https://github.com/parikshitadhikari)
+- [Shukla0404](https://github.com/Shukla0404)
 - [Arjun Pandit](https://github.com/arjunpndt)
 - [Dhananjay Kajale](https://github.com/dhananjaykajale751)
 - [Yasin Günay](https://github.com/yasingunay)
